@@ -49,7 +49,7 @@ netflix_analysis/
 ## 📌 How to Use
 
 1. Clone or download this repository
-2. Open [`netflix_analysis.ipynb`](./netflix_analysis.ipynb) in Jupyter or a compatible notebook environment
+2. Open [`Investigating Netflix Movies.ipynb`](./Investigating Netflix Movies.ipynb) in Jupyter or a compatible notebook environment
 3. Run the cells to reproduce the analysis
 4. Modify filters to explore different decades, genres, or durations
 
