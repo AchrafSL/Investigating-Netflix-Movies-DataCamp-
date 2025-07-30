@@ -35,7 +35,6 @@ The dataset used in this analysis is [`netflix_data.csv`](./netflix_data.csv) an
 
 - **Python**
 - **pandas** for data manipulation
-- **matplotlib** and **NumPy** for visualization and calculations
 
 ## 📌 How to Use
 
