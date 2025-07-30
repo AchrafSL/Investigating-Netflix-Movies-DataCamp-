@@ -40,7 +40,7 @@ The dataset used in this analysis is [`netflix_data.csv`](./netflix_data.csv) an
 ## 📌 How to Use
 
 1. Clone or download this repository
-2. Open the notebook [`PROJECT - INVESTIGATING NETFLIX MOVIES.ipynb`](./PROJECT%20-%20INVESTIGATING%20NETFLIX%20MOVIES.ipynb) in Jupyter or a compatible notebook environment
+2. Open the notebook [`PROJECT - INVESTIGATING NETFLIX MOVIES.ipynb`](./Investigating_Netflix_Movies.ipynb) in Jupyter or a compatible notebook environment
 3. Run the cells to reproduce the analysis
 4. Modify filters to explore different decades, genres, or durations
 
